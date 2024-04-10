@@ -1,5 +1,7 @@
 # NGO Website
 
+![Banner](https://github.com/VibinrajRajesh/NGO-Website/blob/main/Banner.png)
+
 Welcome to the repository for our NGO's website! Here you'll find the source code and assets that power our digital presence, aimed at promoting our mission, projects, and impact.
 
 ## About Us
