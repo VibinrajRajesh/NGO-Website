@@ -21,7 +21,7 @@ We are a non-profit organization dedicated to [brief description of the organiza
 - HTML5
 - CSS3
 - JavaScript
-- [Any additional libraries or frameworks used]
+- RazorPay
 
 ## Getting Started
 
